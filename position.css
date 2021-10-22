@@ -1,0 +1,13 @@
+#mery { 
+    /* position: static;position par defaut , css taydirha automatiquement on peut pas modifier left- right- top- bottom- */
+    width: 150px;
+    height: 150px;
+    background: #F8AC2C;
+    border-radius:50%;
+    left:50%;
+    right: auto;
+    top: 0;
+    bottom: 40%;
+    /* position: relative; la meilleure position nous permet de bien controler l'image left+  right+ top+ bottom+ */
+    /* position: fixed; left right top bottom+++++ */
+}
